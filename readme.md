@@ -13,7 +13,8 @@ Active States (animações e interações desejadas):
 <img src="./src/design/active-states.jpg" alt="iamgem que ilustra quais animações devem estar presentes no card">
 
 ## Layout esperado no mobile:
-Layout esperado no formato de exibição Mobile
+Layout esperado no formato de exibição Mobile:
+
 <img src="./src/design/mobile-design.jpg" alt="imagem que ilustra o layout no formato mobile">
 
 ## Serviços Usados
